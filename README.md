@@ -15,7 +15,7 @@ Recommended books by sorting similarity score value to a user’s initial pick i
 
 ## Data Description:
 
-The dataset was manually collected from Project Gutenberg.
+The dataset was manually collected from [Project Gutenberg](https://www.gutenberg.org).
 
 ## Acknowledgement:
 
