@@ -19,19 +19,4 @@ The dataset was manually collected from [Project Gutenberg](https://www.gutenber
 
 ## Acknowledgement:
 
-[DataCamp](https://www.datacamp.com/projects/607)
-
-Project Tasks
-
-Darwin's bibliography
-Load the contents of each book into Python
-Find "On the Origin of Species"
-Tokenize the corpus
-Stemming of the tokenized corpus
-Building a bag-of-words model
-The most common words of a given book
-Build a tf-idf model
-The results of the tf-idf model
-Compute distance between texts
-The book most similar to "On the Origin of Species"
-Which books have similar content?
+- [DataCamp](https://www.datacamp.com/projects/607)
